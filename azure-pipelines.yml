@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'b01f618b-6bf9-4e92-bc72-4a6515175c4c'
 
   # Web app name
-  webAppName: 'app0021'
+  webAppName: 'learnado'
 
   # Environment name
   environmentName: 'app0021'
